@@ -1,7 +1,7 @@
 let mix = require('laravel-mix')
 const tailwindcss = require('tailwindcss')
 const resourcesPath = 'src/main/resources'
-const publicPath = `${resourcesPath}/web`
+const webPath = `${resourcesPath}`
 
 mix
     .setPublicPath(publicPath)

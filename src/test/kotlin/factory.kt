@@ -1,5 +1,5 @@
-import __PACKAGE__.entities.User
-import __PACKAGE__.entities.Users
+import com.example.coffeebarn.entities.User
+import com.example.coffeebarn.entities.Users
 import dev.alpas.hashing.Hasher
 import dev.alpas.make
 import dev.alpas.ozone.create

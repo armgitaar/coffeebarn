@@ -1,5 +1,5 @@
-import __PACKAGE__.ConsoleKernel
-import __PACKAGE__.addRoutes
+import com.example.coffeebarn.ConsoleKernel
+import com.example.coffeebarn.addRoutes
 import dev.alpas.auth.Authenticatable
 import dev.alpas.pulsar.TestBase
 import dev.alpas.pulsar.from

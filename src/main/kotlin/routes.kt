@@ -1,6 +1,6 @@
-package __PACKAGE__
+package com.example.coffeebarn
 
-import __PACKAGE__.controllers.WelcomeController
+import com.example.coffeebarn.controllers.WelcomeController
 import dev.alpas.routing.RouteGroup
 import dev.alpas.routing.Router
 

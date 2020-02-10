@@ -1,4 +1,4 @@
-package __PACKAGE__
+package com.example.coffeebarn
 
 import dev.alpas.Alpas
 

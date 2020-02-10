@@ -1,6 +1,6 @@
-package __PACKAGE__.database.migrations
+package com.example.coffeebarn.database.migrations
 
-import __PACKAGE__.entities.Users
+import com.example.coffeebarn.entities.Users
 import dev.alpas.auth.PasswordResetTokens
 import dev.alpas.ozone.migration.Migration
 

@@ -1,4 +1,4 @@
-package __PACKAGE__.entities
+package com.example.coffeebarn.entities
 
 import dev.alpas.auth.Authenticatable
 import dev.alpas.auth.UserProvider
